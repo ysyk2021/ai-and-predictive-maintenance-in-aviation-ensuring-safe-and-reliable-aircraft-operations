@@ -10,7 +10,7 @@ The objective of this book is to provide a comprehensive understanding of AI-bas
 
 Overall, this book aims to provide a comprehensive understanding of AI-based predictive maintenance in aviation. It will be a valuable resource for professionals in the aviation industry seeking to improve safety, reduce downtime, and save costs through the implementation of AI-based predictive maintenance programs.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
