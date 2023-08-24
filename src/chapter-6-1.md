@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Predictive Maintenance
-==========================================================================================================
 
 As the use of artificial intelligence (AI) in predictive maintenance becomes more widespread in the aviation industry, it is important to consider ethical issues associated with its use. This chapter will discuss some of these ethical issues and their implications for the safe and reliable operation of aircraft.
 

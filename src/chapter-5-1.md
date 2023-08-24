@@ -1,5 +1,3 @@
-Overview of AI-based Predictive Maintenance Techniques and Strategies
-============================================================================================================================================
 
 AI-based predictive maintenance techniques and strategies play a critical role in the aviation industry. By analyzing vast amounts of data, organizations can make more accurate predictions about when maintenance is required and identify potential faults early on. This chapter will provide an overview of AI-based predictive maintenance techniques and strategies.
 

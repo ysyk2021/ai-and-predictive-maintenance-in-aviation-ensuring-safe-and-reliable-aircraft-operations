@@ -1,5 +1,3 @@
-Condition-Based Maintenance
-==================================================================================================
 
 Condition-based maintenance (CBM) is a technique used in predictive maintenance that involves performing maintenance on aircraft components based on their actual condition, rather than a fixed schedule. CBM relies on data analysis techniques to assess the condition of components and determine when maintenance is required. In this chapter, we will examine how AI-based predictive maintenance can be used for CBM.
 

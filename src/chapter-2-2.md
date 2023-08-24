@@ -1,5 +1,3 @@
-Traditional Approaches to Aviation Maintenance
-================================================================================================
 
 The aviation industry has traditionally relied on two main approaches to maintenance - fixed schedule maintenance and reactive maintenance. While these approaches have been effective to some extent, they have several limitations that make them less efficient than predictive maintenance. This chapter will discuss traditional approaches to aviation maintenance.
 

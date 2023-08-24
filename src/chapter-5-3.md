@@ -1,5 +1,3 @@
-Fault Detection and Diagnosis
-====================================================================================================
 
 One of the key benefits of using AI in predictive maintenance is the ability to detect and diagnose faults in aircraft components before they lead to major issues or safety incidents. By leveraging machine learning and other AI techniques, organizations can analyze vast amounts of data to predict when maintenance is required and identify potential faults early on. This chapter will discuss AI-based predictive maintenance techniques and strategies for fault detection and diagnosis.
 

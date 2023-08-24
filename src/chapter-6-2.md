@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Predictive Maintenance
-====================================================================================================================
 
 As the use of artificial intelligence (AI) in predictive maintenance becomes more widespread in the aviation industry, it is important to consider ethical and responsible practices. This chapter will discuss best practices for ensuring ethical and responsible AI in predictive maintenance.
 

@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Predictive Maintenance
-================================================================================================================================================
 
 Artificial intelligence (AI) is a powerful tool for predictive maintenance in the aviation industry. AI can be used to analyze vast amounts of data to predict when maintenance is required and identify potential faults early on. In this chapter, we will examine the different types of AI and their applications in predictive maintenance.
 

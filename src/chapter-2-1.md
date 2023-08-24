@@ -1,5 +1,3 @@
-Overview of Predictive Maintenance
-====================================================================================
 
 Predictive maintenance is an approach to maintenance that uses data analysis techniques to predict when maintenance is required. This approach can help to reduce downtime and increase the safety and reliability of aircraft operations. This chapter will provide an overview of predictive maintenance.
 

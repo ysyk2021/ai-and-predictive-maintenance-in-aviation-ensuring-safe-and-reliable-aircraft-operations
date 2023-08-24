@@ -1,5 +1,3 @@
-Artificial Intelligence in Predictive Maintenance
-============================================================
 
 Artificial intelligence (AI) has revolutionized predictive maintenance in the aviation industry. By leveraging machine learning and other AI techniques, organizations can analyze vast amounts of data to predict when maintenance is required and plan maintenance more efficiently. This chapter will discuss the role of AI in predictive maintenance.
 

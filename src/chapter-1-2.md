@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Aviation Maintenance
-==========================================================================================================
 
 Artificial intelligence (AI) is rapidly transforming the aviation industry, including maintenance operations. AI-based predictive maintenance is becoming increasingly popular as a way to improve the safety, reliability, and efficiency of aircraft operations. In this chapter, we will provide an overview of AI and its applications in aviation maintenance.
 

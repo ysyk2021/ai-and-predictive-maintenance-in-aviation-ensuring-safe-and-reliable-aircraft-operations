@@ -1,5 +1,3 @@
-Environmental and Weather Data
-===================================================================================================
 
 In addition to sensor and diagnostic data, environmental and weather data can also provide valuable information for predictive maintenance in the aviation industry. This chapter will discuss the role of environmental and weather data in predictive maintenance.
 

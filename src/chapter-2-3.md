@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-======================================================================================================
 
 Traditional approaches to maintenance in the aviation industry have relied on fixed schedules and reactive maintenance. However, these approaches have several limitations and challenges that make them less effective than predictive maintenance. This chapter will discuss the limitations and challenges of traditional approaches to maintenance.
 

@@ -1,5 +1,3 @@
-Prognostics and Health Management
-========================================================================================================
 
 Prognostics and health management (PHM) is a technique used in predictive maintenance that involves monitoring the health of aircraft components and predicting when maintenance is required. PHM relies on data analysis techniques to assess the condition of components and determine when maintenance is required. In this chapter, we will examine how AI-based predictive maintenance can be used for PHM.
 

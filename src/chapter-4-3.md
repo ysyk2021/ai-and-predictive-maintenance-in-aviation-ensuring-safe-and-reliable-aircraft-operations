@@ -1,5 +1,3 @@
-Flight Data and Historical Maintenance Records
-===================================================================================================================
 
 In addition to sensor data, flight data and historical maintenance records are also important sources of information for predictive maintenance in the aviation industry. This chapter will discuss the role of flight data and historical maintenance records in predictive maintenance.
 

@@ -1,5 +1,3 @@
-Sensor and Diagnostic Data
-===============================================================================================
 
 Sensor and diagnostic data play a critical role in predictive maintenance in the aviation industry. By collecting and analyzing this data, organizations can identify potential issues before they become major problems and plan maintenance accordingly. This chapter will discuss the role of sensor and diagnostic data in predictive maintenance.
 

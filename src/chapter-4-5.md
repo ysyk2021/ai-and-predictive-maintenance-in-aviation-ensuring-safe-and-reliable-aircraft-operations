@@ -1,5 +1,3 @@
-Social Media and User Behavior Tracking
-============================================================================================================
 
 In addition to sensor data, flight data, and historical maintenance records, social media and user behavior tracking can also provide valuable information for predictive maintenance in the aviation industry. This chapter will discuss the role of social media and user behavior tracking in predictive maintenance.
 

@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Predictive Maintenance
-======================================================================================================================
 
 Artificial intelligence (AI) is playing an increasingly important role in predictive maintenance in the aviation industry. By analyzing vast amounts of data, organizations can make more accurate predictions about when maintenance is required and identify potential faults early on. In this chapter, we will examine case studies on the use of AI in predictive maintenance.
 

@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Predictive Maintenance
-========================================================================================================================================
 
 Data collection and analysis play a critical role in the success of predictive maintenance programs. In order to accurately predict when maintenance is required, it is essential to have access to reliable and accurate data. This chapter will provide an overview of data collection and analysis for predictive maintenance.
 
